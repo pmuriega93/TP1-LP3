@@ -1,0 +1,16 @@
+Nombre:pepito srl
+<br>
+Monto:15000
+<br>
+Fecha<br>
+1742024
+<br>
+<hr>
+Nombre:miguelito srl
+<br>
+Monto:16000
+<br>
+Fecha<br>
+10-5-2024
+<br>
+<hr>
